@@ -1,0 +1,821 @@
+/* 1180 - 1280 px */
+@media screen and (max-width: 1280px) {
+    .section-first {
+        background-size: 35%;
+    }
+    
+    .working__proсess {
+        padding-right: 0;
+    }
+    
+    .scale {
+        width: 98%;
+    }
+    
+    .stage {
+        margin-left: 10px;
+        margin-right: 0;
+    }
+}
+
+@media screen and (max-width: 1180px) {
+    .logo {
+        background-size: 100%;
+    }
+    
+    .whatsapp, .vk, .telega {    
+        background-size: 93%;
+        margin-left: 14px;
+}
+    
+    .stage {
+        margin-left: 0;
+    }
+
+    .avantage_link {
+        width: 90%;
+    } 
+
+    .lp{
+        display: block;
+        width: 100%
+    }    
+
+    .left,
+    .right{
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    .start {
+    margin: 0px auto 41px;
+    }
+}
+
+
+@media screen and (max-width: 1140px) {
+    .price__item,
+    .price__item-two,
+    .price__item-three{
+        width: 300px; 
+    }
+
+    .price__row {
+        padding: 0px 30px;
+    }    
+}
+
+
+
+@media screen and (max-width: 1120px) {
+    .logo {
+        background-size: contain;
+    }
+    
+    
+    .stage {
+        width: 175px;
+    }
+
+}
+
+@media screen and (max-width: 1080px) {
+    .menu__list {
+        margin-left: 50px;
+    }
+
+        
+    .price__text {
+        font-size: 13px;
+    }
+    
+    .stage {
+        width: 170px;
+    }
+
+    .avantage_link ul li span {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .menu__list {
+        margin-left: 30px;
+    }
+    
+    .section-third {
+        padding-bottom: 0;
+    }
+    
+    .stage {
+        width: 160px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 1000px) {
+    .menu__list {
+        margin-right: 40px;
+    }
+    
+
+    .stage:first-child {
+        margin-left: 40px;
+    }
+    
+    .portfolio-desc {
+        margin-left: 0%;
+    }
+    .portfolio-a {
+        margin-left: 52%;
+    }
+
+    .price__item,
+    .price__item-two,
+    .price__item-three{
+        width: 250px;
+        height: 460px;
+    }
+
+    .price__row {
+        padding: 0px 20px;
+    }
+
+    .item1,
+    .item2,
+    .item3 {
+        
+        padding-bottom: 87px;
+    }
+
+    .price__price{
+        font-size: 14px;
+    }
+
+    .price__item_prise {
+        margin-right: 14px;
+    }
+
+    .price__item_prise-two {
+        margin-right: 14px;
+    }
+
+    .stock {
+        margin: 23px 0px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    .menu__list {
+        margin-right: 20px;
+    }
+    
+
+    
+    .price__text {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    .scale {
+        width: 95%;
+    }
+    
+    .stage {
+        width: 150px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    .menu__ref {
+        font-size: 16px;
+    }
+    
+    .menu__list {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    
+    .stage {
+        width: 145px;
+    }
+    
+    .stage p {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .header {
+        margin-left: 20px;
+    }
+    
+    .menu__ref {
+        font-size: 14px;
+    }
+    
+    .menu__list {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .menu__item {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    
+    .whatsapp, .vk, .telega {
+        background-size: 70%;
+        margin-left: 5px;
+    }
+    
+    .advantage__item {
+        max-width: 160px;
+    }
+    
+    .advantage__text {
+        font-size: 12px;
+    }
+    
+    .avantage_link {
+        font-size: 14px;
+    }
+    
+    .price__row {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .stage {
+        width: 140px;
+    }
+    
+    .portfolio-desc {
+        margin-left: 0; 
+    }
+    
+    .portfolio-a {
+        margin-left: 49%;
+    }
+
+
+    h1 {
+        font-size: 61px;
+    }
+
+    .section-first {
+        background-size: 20%;
+    }
+
+    .section-first {
+        background-position: 1% 23.2%, 78% 103%;
+        padding-bottom: 7%;
+
+    }
+}
+
+@media screen and (max-width: 870px) {
+    .whatsapp, .vk, .telega {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 840px) {
+    .container {
+        width: 100%;
+    }
+    
+    .advantage__item {
+        max-width: 150px;
+    }
+    
+    .stage {
+        width: 130px;
+    }
+
+    .price__item,
+    .price__item-two,
+    .price__item-three {
+        margin: 0px auto 30px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .section-first {
+        background-size: 25%;
+    }
+    
+    .menu__ref {
+        font-size: 12px;
+    }
+    
+    .menu__list {
+        justify-content: center;
+        width: 590px;
+    }
+    
+    .advantage__item {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .avantage_link {
+        font-size: 12px;
+    }
+    
+    .price__row {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .stage {
+        width: 120px;
+    }
+    
+    .stage p {
+        font-size: 8px;
+    }
+    
+    .scale {
+        width: 90%;
+    }
+    
+    .portfolio-desc {
+       /* margin-left: 38%;*/
+        font-size: 20px;
+    }
+    
+    .portfolio-a {
+        margin-left: 47%;
+        font-size: 12px;
+    }
+
+    .vantage{
+        padding: 0px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+.section-first {
+    background-size: 29%;
+
+}
+
+.section-first {
+    background-position: 1% 23.2%, 105% 81%;
+    padding-bottom: 7%;
+}
+
+.logo {
+    background-size: auto;
+}
+
+.burger {
+	display: block;
+	margin-left: 25%;
+	margin-top: 50px;
+	transform: translate(-50%, -50%);
+	width: 48px;
+	height: 48px;
+	cursor: pointer;
+	background: url(../img/burger.png) no-repeat center center;
+}
+
+.burger:hover {
+	transition: 0.3s ease;
+	color: #d4af00;
+}
+
+.menu {
+	display: none;
+}
+
+.socials {
+    margin-left: 25%;
+}
+
+.price__row {
+    display: block;
+}
+
+.stage {
+    width: 110px;
+}
+
+.stage img {
+    width: 20%;
+}
+
+/*.portfolio-desc {
+    margin-left: 50%;
+}*/
+
+.portfolio-a {
+    margin-left: 55%;
+}
+
+.price__item,
+.price__item-two,
+.price__item-three{
+    width: 300px;
+}
+
+}
+
+@media screen and (max-width: 650px) {
+    .advantage__item {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding-left: 5px;
+    }
+    
+    .advantage__icon {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .stage {
+        width: 90px;
+    }
+    
+    .stage p {
+        font-size: 7px;
+    }
+    
+   /*.portfolio-desc {
+        margin-left: 45%;
+    }*/
+
+    .portfolio-a {
+        margin-left: 50%;
+    }
+
+    .connection {
+        width: 75%;
+    }
+
+    .connection__input {
+    width: 80%;
+    }
+
+    .connection__btn{
+        width: 80%;
+    }
+}
+
+
+@media screen and (max-width: 560px) {
+    
+
+
+
+
+    .working__proсess{
+        display: none;
+    }    
+
+
+    .red-line-four {
+        display: none;
+    }
+
+    .price__item_prise,
+    .price__item_prise-two {
+        margin-right: 23%;
+    }
+
+    .red-line {
+        width: 28%;
+        left: 45%; 
+    }
+            
+    .logo {
+        background-size: 100%;
+    }
+    
+    .advantage__icon {
+        width: 50px;
+        height: 50px;
+    }
+    
+    .advantage__text {
+        font-size: 8px;
+    }
+    
+    .avantage_link {
+        font-size: 10px;
+        margin-top: -208px;
+    }
+    
+    .stage {
+        width: 80px;
+    }
+    
+    .portfolio-desc {
+        font-size: 28px;
+    }
+
+    .portfolio-a {
+        margin-left: 55%;
+        font-size: 18px;
+    }
+
+    .vantage{
+        height: 389px;
+    }
+
+    .logotype {
+        text-align: center;
+        margin-top: 2px;
+    }
+
+    .logotype img{
+        width: 120px;
+    }
+
+    .section-second{
+        padding-top:50px;
+        padding-bottom:50px;
+    }
+
+    .lp {
+        
+        margin: 0px auto 30px;
+        display: block;
+    }
+
+    .left,
+    .right{
+        display: block;
+    }
+
+    .tarif__name {
+        padding-top: 19px;
+    }
+
+    .lp__title{
+        font-size: 30px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (max-width: 505px) {
+    .red-line {
+        width: 109px;
+        left: 45%;
+    }
+
+
+    h2 {
+        font-size: 22px;
+    }
+    
+    h3 {
+        font-size: 14px;
+    }
+    
+    .header-second {
+        display: block;
+    }
+    
+    .burger-second {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50px;
+        height: 50px;
+        background: url(../img/burger-second.png) no-repeat center center;
+    }
+    
+    .burger-second:hover {
+        cursor: pointer;
+    }
+    
+    .logo {
+        background-size: 80%;
+    }
+    
+    .socials {
+        margin-left: 45%;
+    }
+    
+    .head {
+        display: block;
+    }
+    
+    .section-first a {
+        font-size: 16px;
+    }
+    
+    .section-title_main {
+        font-size: 24px;
+    }
+    
+    .burger {
+        margin-left: 30%;
+        width: 90px;
+        display: none;
+    }
+    
+    .buttons {
+        margin-top: 50px;
+        margin-left: 0;
+        margin-bottom: 0;
+        display: block;
+    }
+    
+    .button2 {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+
+    
+    .working__proсess {
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    
+    .scale {
+        width: 100%;
+    }
+    
+    .portfolio-desc {
+       /* margin-left: 45%;*/
+    }
+
+    .portfolio-a {
+        margin-left: 51%;
+    }
+    
+    .connection {
+        width: 90%;
+    }
+
+    .section-title_main::after {
+        max-width: 104px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .red-line {
+        width: 109px;
+        left: 44%;
+    }
+    .burger {
+        width: 155px;
+    }
+    
+    .socials {
+        margin-left: 45%;
+    }
+    
+        
+    .stage {
+        width: 70px;
+    }
+
+    .avantage_link ul li span {
+        font-size: 2.5vw;
+    }
+
+    .logotype{
+        margin-top: 2%;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .red-line {
+        width: 109px;
+        left: 44%;
+    }
+    
+    .connection__input, .connection__btn {
+        width: 90%;
+    }
+    
+    .stage:first-child {
+        margin-left: 20px;
+    }
+
+}
+
+@media screen and (max-width: 420px) {
+    
+    h1 {
+        font-size: 32px;
+    }
+    
+    h2 {
+        font-size: 18px;
+    }
+    
+    h3 {
+    
+        font-size: 12px;
+    }
+    
+    .section-first a {
+        font-size: 14px;
+    }
+    
+    .advantage__item {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    
+    .advantage__icon {
+        width: 40px;
+        height: 40px;
+    }
+    
+    
+    .stage:first-child {
+        margin-left: 10px;
+    }
+    
+    .portfolio-desc {
+        font-size: 22px;
+    }
+
+    .portfolio-a {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .stage:first-child {
+        margin-left: 0;
+    }
+    
+    .stage {
+        width: 65px;
+    }
+    
+    .portfolio-desc {
+        font-size: 20px;
+    }
+
+    .portfolio-a {
+        font-size: 14px;
+    }
+
+    .red-line {
+        width: 109px;
+        left: 44%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    
+    h1 {
+        font-size: 25px;
+    }
+    
+    .section-first {
+        background-position: 10% 23.2%, 108% 91%;
+        padding-top: 63px;
+    }
+
+    .advantage__item {
+        padding-left: 0;
+        padding-right: 5px;
+    }
+    
+    .stage {
+        width: 60px;
+    }
+    
+    .portfolio-desc {
+       /* margin-left: 42%;*/
+    }
+
+    .portfolio-a {
+        margin-left: 48%;
+    }
+
+    .section-first {
+        background-size: 45%;
+    }
+
+    .red-line {
+        width: 107px;
+        left: 44%;
+    }
+    
+}
